@@ -1,0 +1,2 @@
+# pandetails
+test project
